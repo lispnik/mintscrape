@@ -12,11 +12,13 @@ The username should be on the first line, and the password should be on the seco
 Create a standalone jar:
 
     lein uberjar
-    java -jar target/mintscrape-0.1.0-SNAPSHOT-standalone.jar
+    java -jar target/mintscrape-1.0-standalone.jar
 
 or run from Leiningen:
 
     lein run
+
+The latest release of the standalone JAR can be found at https://github.com/lispnik/mintscrape/releases/latest
 
 ## License
 
